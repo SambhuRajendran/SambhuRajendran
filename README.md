@@ -13,7 +13,7 @@
 
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺Popular YouTube Videos</h2>
 
 - [📚💻 What is a 'Man' command in Linux?)](https://www.youtube.com/watch?v=LTJEAwuKowU&t=20s&ab_channel=SambhuRajendran)
 - [🚀Launching a Node.js App from Local to AWS EC2 using Docker Hub 🐳🌤️](https://www.youtube.com/watch?v=LK0RWNqx2Qg&ab_channel=SambhuRajendran)
@@ -22,7 +22,7 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳Connect with me:</h2>
 
 [<img align="left" alt="Sambhu Rajendran | YouTube" width="22px" src="https://img.icons8.com/color/48/youtube-play.png"/>][youtube]
 [<img align="left" alt="Sambhu Rajendran | LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png"/>][linkedin]
