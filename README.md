@@ -7,21 +7,34 @@
 
 <h2>📕My Certifications:</h2>
 
-- [Comptia Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=M2DYTQ89PR9PV8S7))
+- [Comptia Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=M2DYTQ89PR9PV8S7)
 - [Amazon Web Services Solutions Architect Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/RY43QYRKHMQ41N3F)
 - [Cisco Certified Network Associate (R&S)]()
 
-<!--
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
--->
+- [📚💻 What is a 'Man' command in Linux?)](https://www.youtube.com/watch?v=LTJEAwuKowU&t=20s&ab_channel=SambhuRajendran)
+- [🚀Launching a Node.js App from Local to AWS EC2 using Docker Hub 🐳🌤️](https://www.youtube.com/watch?v=LK0RWNqx2Qg&ab_channel=SambhuRajendran)
+- [🚀Deploying multiple NGINX webservers on Docker](https://www.youtube.com/watch?v=Et5adLlmDtw&ab_channel=SambhuRajendran)
+- [🐳3 Important Docker Container Commands🔧](https://www.youtube.com/watch?v=Xv0ZknIWHdA&t=21s&ab_channel=SambhuRajendran)
+
+
+
 <h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Sambhu Rajendran | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Sambhu Rajendran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://www.youtube.com/@SambhuRajendran
+[linkedin]: https://www.linkedin.com/in/rsambhu/
+
+
+
+
+
+<!-- <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -32,7 +45,7 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
-
+-->
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
