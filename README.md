@@ -1,7 +1,40 @@
-### Hi there 👋
+<h1>Hi, I'm Sambhu Rajendran! </h1>
+
+
+<h2>👨‍💻My Cyber Security Projects:</h2>
+
+- [Raspberry PI Vulnerability Scanner](https://github.com/SambhuRajendran/PiVulnerabilityScanner)
+
+<h2>📕My Certifications:</h2>
+
+- [Comptia Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=M2DYTQ89PR9PV8S7))
+- [Amazon Web Services Solutions Architect Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/RY43QYRKHMQ41N3F)
+- [Cisco Certified Network Associate (R&S)]()
 
 <!--
-**SambhuRajendran/SambhuRajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+-->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
