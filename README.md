@@ -1,9 +1,9 @@
-<h1>Hi, I'm Sambhu Rajendran! </h1>
+<h1>Hi 👋 I'm Sambhu Rajendran! </h1>
 
 
 <h2>👨‍💻My Cyber Security Projects:</h2>
 
-- [Raspberry PI Vulnerability Scanner](https://github.com/SambhuRajendran/PiVulnerabilityScanner)
+- [Raspberry PIVulnerability Scanner](https://github.com/SambhuRajendran/PiVulnerabilityScanner) 🍓
 
 <h2>📕My Certifications:</h2>
 
