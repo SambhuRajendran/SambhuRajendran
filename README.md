@@ -3,7 +3,7 @@
 
 <h2>👨‍💻My Cyber Security Projects:</h2>
 
-- [Raspberry PIVulnerability Scanner](https://github.com/SambhuRajendran/PiVulnerabilityScanner) 🍓
+- [Vulnerability Scanner - Nessus](https://github.com/SambhuRajendran/PiVulnerabilityScanner) 🍓
 
 <h2>📕My Certifications:</h2>
 
