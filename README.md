@@ -26,9 +26,13 @@
 
 [<img align="left" alt="Sambhu Rajendran | YouTube" width="22px" src="https://img.icons8.com/color/48/youtube-play.png"/>][youtube]
 [<img align="left" alt="Sambhu Rajendran | LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png"/>][linkedin]
+[<img align="left" alt="Sambhu Rajendran | Blog" width="22px" src="https://img.icons8.com/arcade/64/medium-monogram.png"/>][Blog]
 
-[youtube]: https://www.youtube.com/@SambhuRajendran
+
+[YouTube]: https://www.youtube.com/@SambhuRajendran
 [linkedin]: https://www.linkedin.com/in/rsambhu/
+[Blog]: https://medium.com/@sambhurajendran/
+
 
 
 
