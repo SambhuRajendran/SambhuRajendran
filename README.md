@@ -5,6 +5,8 @@
 
 - [Vulnerability Scanner - Nessus](https://github.com/SambhuRajendran/PiVulnerabilityScanner) 🍓
 
+<h2>👨‍💻Articles (https://medium.com/@sambhurajendran/)</h2>
+
 <h2>📕My Certifications:</h2>
 
 - [Comptia Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=M2DYTQ89PR9PV8S7)
