@@ -5,7 +5,7 @@
 
 - [Vulnerability Scanner - Nessus](https://github.com/SambhuRajendran/PiVulnerabilityScanner) 🍓
 
-<h2>👨‍💻Articles (https://medium.com/@sambhurajendran/)</h2>
+## 👨‍💻 [Articles](https://medium.com/@sambhurajendran/)
 
 <h2>📕My Certifications:</h2>
 
