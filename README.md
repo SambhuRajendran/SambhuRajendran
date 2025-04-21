@@ -1,7 +1,7 @@
 <h1>Hi 👋 I'm Sambhu Rajendran! </h1>
 
 
-<h2>👨‍💻My Cyber Security Projects:</h2>
+<h2>👨‍💻My Projects:</h2>
 
 - [Vulnerability Scanner - Nessus](https://github.com/SambhuRajendran/PiVulnerabilityScanner) 🍓
 
