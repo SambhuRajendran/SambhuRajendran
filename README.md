@@ -1,67 +1,44 @@
-<h1>Hi 👋 I'm Sambhu Rajendran! </h1>
+<h1 align="center">Hi 👋 I'm Sambhu Rajendran</h1>
 
+---
 
-<h2>👨‍💻My Projects:</h2>
+### 👨‍💻 Projects
 
-- [Vulnerability Scanner - Nessus](https://github.com/SambhuRajendran/PiVulnerabilityScanner) 🍓
+- [🍓 Vulnerability Scanner - Nessus (Raspberry Pi)](https://github.com/SambhuRajendran/PiVulnerabilityScanner)
+- [🌐 Cloud Resume Challenge (AWS)](https://github.com/SambhuRajendran/SambhuRajendran)
 
-📚 Youtube Channel:
-- [Here are my videos on Youtube](https://www.youtube.com/@SambhuRajendran)
+---
 
-<h2>📕My Certifications:</h2>
-- [CISSP](https://www.credly.com/badges/95a8832e-48b9-44cf-9566-8e543ae0f9ef/public_url)
-- [Comptia Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=M2DYTQ89PR9PV8S7)
-- [Amazon Web Services Solutions Architect Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/RY43QYRKHMQ41N3F)
-- [Cisco Certified Network Associate (R&S)]
+### 📺 Popular YouTube Videos
 
-<h2>📺Popular YouTube Videos</h2>
+- [📚💻 What is the 'man' command in Linux?](https://www.youtube.com/watch?v=LTJEAwuKowU)
+- [🚀 Launching a Node.js App from Local to AWS EC2 using Docker Hub](https://www.youtube.com/watch?v=LK0RWNqx2Qg)
+- [🌐 Deploying Multiple NGINX Web Servers on Docker](https://www.youtube.com/watch?v=Et5adLlmDtw)
+- [🐳 3 Important Docker Container Commands](https://www.youtube.com/watch?v=Xv0ZknIWHdA)
 
-- [📚💻 What is a 'Man' command in Linux?)](https://www.youtube.com/watch?v=LTJEAwuKowU&t=20s&ab_channel=SambhuRajendran)
-- [🚀Launching a Node.js App from Local to AWS EC2 using Docker Hub 🐳🌤️](https://www.youtube.com/watch?v=LK0RWNqx2Qg&ab_channel=SambhuRajendran)
-- [🚀Deploying multiple NGINX webservers on Docker](https://www.youtube.com/watch?v=Et5adLlmDtw&ab_channel=SambhuRajendran)
-- [🐳3 Important Docker Container Commands🔧](https://www.youtube.com/watch?v=Xv0ZknIWHdA&t=21s&ab_channel=SambhuRajendran)
+➡️ [Check out more videos on my YouTube channel](https://www.youtube.com/@SambhuRajendran)
 
+---
 
+### 📕 Certifications
 
-<h2> 🤳Connect with me:</h2>
+- [🛡️ CISSP (ISC2)](https://www.credly.com/badges/95a8832e-48b9-44cf-9566-8e543ae0f9ef/public_url)
+- [🔐 CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=M2DYTQ89PR9PV8S7)
+- [☁️ AWS Solutions Architect Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/RY43QYRKHMQ41N3F)
+- 🎓 Cisco Certified Network Associate (R&S)
 
-[<img align="left" alt="Sambhu Rajendran | YouTube" width="22px" src="https://img.icons8.com/color/48/youtube-play.png"/>][youtube]
-[<img align="left" alt="Sambhu Rajendran | LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png"/>][linkedin]
-[<img align="left" alt="Sambhu Rajendran | Blog" width="22px" src="https://img.icons8.com/arcade/64/medium-monogram.png"/>][Blog]
+---
 
+### 🤝 Connect with Me
 
-[YouTube]: https://www.youtube.com/@SambhuRajendran
-[linkedin]: https://www.linkedin.com/in/rsambhu/
-[Blog]: https://medium.com/@sambhurajendran/
+[<img align="left" alt="YouTube" width="30px" src="https://img.icons8.com/color/48/youtube-play.png" />][YouTube]  
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/linkedin.png" />][LinkedIn]  
+[<img align="left" alt="Medium Blog" width="30px" src="https://img.icons8.com/arcade/64/medium-monogram.png" />][Blog]
 
+<br>
 
+---
 
-
-
-
-<!-- <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
--->
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[YouTube]: https://www.youtube.com/@SambhuRajendran  
+[LinkedIn]: https://www.linkedin.com/in/rsambhu/  
+[Blog]: https://medium.com/@sambhurajendran
