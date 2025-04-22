@@ -11,10 +11,13 @@
 
 ### 📺 Popular YouTube Videos
 
+- [🛡️ Cloud SOC Lab (SIEM, Threat Detection)](https://youtu.be/6kIFkRVxaTI)
+- [⚙️ Automating Compliance with Wazuh](https://youtu.be/Wt6iSMpaNcM)
 - [📚💻 What is the 'man' command in Linux?](https://www.youtube.com/watch?v=LTJEAwuKowU)
 - [🚀 Launching a Node.js App from Local to AWS EC2 using Docker Hub](https://www.youtube.com/watch?v=LK0RWNqx2Qg)
 - [🌐 Deploying Multiple NGINX Web Servers on Docker](https://www.youtube.com/watch?v=Et5adLlmDtw)
 - [🐳 3 Important Docker Container Commands](https://www.youtube.com/watch?v=Xv0ZknIWHdA)
+
 
 ➡️ [Check out more videos on my YouTube channel](https://www.youtube.com/@SambhuRajendran)
 
