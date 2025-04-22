@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Projects
 
-- [🌐 Cloud Resume Challenge (AWS)](https://github.com/SambhuRajendran/SambhuRajendran)
+- [🌐 Cloud Resume Challenge (AWS)](https://github.com/SambhuRajendran/AwsCloudResumeChallenge)
 - [🍓 Vulnerability Scanner - Nessus (Raspberry Pi)](https://github.com/SambhuRajendran/PiVulnerabilityScanner)
 
 ---
