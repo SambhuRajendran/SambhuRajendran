@@ -9,7 +9,7 @@
 - [Here are my videos on Youtube](https://www.youtube.com/@SambhuRajendran)
 
 <h2>📕My Certifications:</h2>
-
+- [CISSP](https://www.credly.com/badges/95a8832e-48b9-44cf-9566-8e543ae0f9ef/public_url)
 - [Comptia Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=M2DYTQ89PR9PV8S7)
 - [Amazon Web Services Solutions Architect Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/RY43QYRKHMQ41N3F)
 - [Cisco Certified Network Associate (R&S)]()
